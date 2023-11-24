@@ -22,4 +22,5 @@ For a simple way of embedding ace into webpage see [editor.html](https://github.
 To see ace in action go to [kitchen-sink-demo](http://ajaxorg.github.io/ace-builds/kitchen-sink.html), [scrollable-page-demo](http://ajaxorg.github.io/ace-builds/demo/scrollable-page.html) or [minimal demo](http://ajaxorg.github.io/ace-builds/editor.html)]   
 
 
-https://ace.c9.io/tool/mode_creator.html)https://ace.c9.io/tool/mode_creator.html
+
+* https://ace.c9.io/tool/mode_creator.html
